@@ -1,1 +1,5 @@
 .project
+tp-git-01.pdf
+target/
+.classpath
+*.class
